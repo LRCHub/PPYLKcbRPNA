@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アメリカンコーヒー",
+  "base_artist": "SHIROSE(WHITE JAM)",
+  "createdAt": "2026-01-13T18:35:02.745141Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アメリカンコーヒー",
+      "artist": "SHIROSE(WHITE JAM)",
+      "has_synced": false,
+      "path": "select/pl_01_アメリカンコーヒー_SHIROSE(WHITE_JAM).txt"
+    }
+  ]
+}
